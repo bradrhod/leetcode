@@ -39,7 +39,10 @@ Built with `gcc -Wall -Wextra -g`.
 | 54 | Spiral Matrix | `54_spiralmatrix.c` |
 | 55 | Jump Game | `55_jump_game.c` |
 | 80 | Remove Duplicates from Sorted Array II | `80_remove_duplicates_sorted.c` |
+| 125 | Valid Palindrome | `125_Valid_Palindrome.c` |
+| 128 | Longest Consecutive Sequence | `128_Longest_Consecutive_Sequence.c`, `128_Longest_Consecutive_Sequence_hash.c` |
 | 134 | Gas Station | `134_gas_station.c` |
+| 167 | Two Sum II - Input Array Is Sorted | `167_Two_Sum_II_Input_Array_Is_Sorted.c` |
 | 217 | Contains Duplicate | `217_containsduplicate.c` |
 | 238 | Product of Array Except Self | `238_Product_Array_Except_Self.c` |
 | 242 | Valid Anagram | `242_valid_anagram.c` |
@@ -50,5 +53,7 @@ Built with `gcc -Wall -Wextra -g`.
 Notes:
 - `49_group_anagram.c` and `49_group_anagram_a.c` are two different solution
   approaches to the same problem.
+- `128_Longest_Consecutive_Sequence.c` and `128_Longest_Consecutive_Sequence_hash.c`
+  are two different solution approaches to the same problem.
 - `36_Valid_Sodoku.c` is a work in progress — `isValidSudoku` is not yet
   implemented and is not currently included in the `medium` `Makefile`.
